@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E191EC9B-041A-4DF4-93F5-1F9B04ED38D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwilioSMSSender/Program.cs">
+    <Files>
+      <File FileName="TwilioSMSSender/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TwilioSMSSender" expanded="True">
+            <Node name="TwilioSMSSender" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TwilioSMSSender FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

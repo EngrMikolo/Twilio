@@ -1,0 +1,3 @@
+/Users/mac/Projects/Repos/TwilioSMSSender/TwilioSMSSender/obj/Debug/netcoreapp3.1/TwilioSMSSender.csprojAssemblyReference.cache
+/Users/mac/Projects/Repos/TwilioSMSSender/TwilioSMSSender/obj/Debug/netcoreapp3.1/TwilioSMSSender.AssemblyInfoInputs.cache
+/Users/mac/Projects/Repos/TwilioSMSSender/TwilioSMSSender/obj/Debug/netcoreapp3.1/TwilioSMSSender.AssemblyInfo.cs
